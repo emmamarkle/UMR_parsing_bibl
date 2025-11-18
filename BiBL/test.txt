@@ -1,0 +1,4 @@
+# ::source <_io.TextIOWrapper name='C:\\Users\\emmam\\OneDrive\\Desktop\\ACNLP\\eng_test\\english_umr-0001.umr' mode='r' encoding='utf-8'>
+# ::nsent 1
+# ::snt 200 dead , 1,500 feared missing in Philippines landslide .
+()
